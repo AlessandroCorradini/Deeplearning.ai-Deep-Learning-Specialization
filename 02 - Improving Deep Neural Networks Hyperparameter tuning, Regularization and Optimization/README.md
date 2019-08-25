@@ -10,8 +10,8 @@ This specialization cover:
 - Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
 - Be able to implement a neural network in TensorFlow. 
 
-## Certificate of Completition
-You can see the [Certificate of Completition](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization%20-%20Deeplearning.ai.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
+## Certificate of Completion
+You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization%20-%20Deeplearning.ai.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
 
